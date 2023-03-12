@@ -10,8 +10,8 @@
 - I am a **QA intern** 
 - I like **surfing, painting and teaching.** 
 - I'm always looking for ways to **improve myself** and  **lear** new things!
-- I've always loved technology and wanted to be a developer
-- **But things took a different turn, now I find things developers hate the most, Bugs 🪲**
+- I've always loved technology and wanted to be a developer ,but things took a\
+different turn. Now I find things developers hate the most,**Bugs** 🪲
 
 <img align="right" alt="gif" width="250px" src="https://usagif.com/wp-content/uploads/gify/zero-two-3.gif" />
 <br />
