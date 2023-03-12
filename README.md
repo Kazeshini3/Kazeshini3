@@ -24,10 +24,9 @@
 - 📚 Enrolled in **Analysis and systems development**.
 - 🌱 I'm currently learning **Cypress**. 
 - 🏄‍♂️ My hobbies are **Hiking and surfing**.
+- 🏢 Currently Working at Motrix Techknowledge
 
-**Currently Working @:**
-- [🏢Motrix Techknowledge]([https://www.loom.com/share/664735d7fef841b79433bc279fdf287c](https://www.motrix.global/en/home))
- 
+
 
 **Learning:**  
 
