@@ -25,6 +25,9 @@
 - 🌱 I'm currently learning **Cypress**. 
 - 🏄‍♂️ My hobbies are **Hiking and surfing**.
 
+**Currently Working @:**
+### Motrix Techknowledge
+
 
 
 **Learning:**  
