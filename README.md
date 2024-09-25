@@ -7,9 +7,9 @@
   <img align="right" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-- I am a **QA intern** 
+- I am a **Software QA Analyst** 
 - I like **surfing, painting and teaching.** 
-- I'm always looking for ways to **improve myself** and  **lear** new things!
+- I'm always looking for ways to **improve myself** and  **learn** new things!
 - I've always loved technology and wanted to be a developer ,but things took a\
 different turn. Now I find things developers hate the most,**Bugs** 🪲
 
@@ -19,7 +19,7 @@ different turn. Now I find things developers hate the most,**Bugs** 🪲
 
 **Personal life:**
 
-- 🏫 I am currently a student of **Universidade do Sul de Santa Catarina**.
+- 🏫 I am currently a graduate of **Universidade do Sul de Santa Catarina**.
 - 🌎 I'm **American**.
 - 📚 Enrolled in **Analysis and systems development**.
 - 🌱 I'm currently learning **Cypress**. 
